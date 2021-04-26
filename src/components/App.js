@@ -7,8 +7,8 @@ function App() {
   return (
     <div>
       <NavBar />
-      <Home />
-      <About />
+      <Home name="Mathew" city="New York"/>
+      <About image="image" />
     </div>
   );
 }
